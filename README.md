@@ -68,4 +68,4 @@ This Power BI dashboard provides a comprehensive analysis of Superstore sales pe
   .  Support data-driven business decision-making.
 
 # Dashboard Preview
-![Superstore Sales Dashboard](Sales_analsis_dashboard.png)  
+![Superstore Sales Dashboard](sales_anaysis_dashboard.png)  
